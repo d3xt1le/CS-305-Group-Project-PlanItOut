@@ -9,7 +9,7 @@ Group 8's Team Project for CS386 (M. Gerosa)
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-This is Jack Shanley's edit.
+Jack Shanley's edit.
 
 ### Prerequisites
 [Android Studio<br>](https://developer.android.com/studio/?gclid=Cj0KCQjwwfiaBhC7ARIsAGvcPe7k0pE8Ra59NSLKOAlbFZSv4PJJCk__IeK18Ro54E9TIrvF4khK__QaAi8REALw_wcB&gclsrc=aw.ds)
